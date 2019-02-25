@@ -22,6 +22,6 @@ def last_evaluated_value
   "expert"
 end
 
-def pizza_party(topping = "cheese")
-  "we have #{topping} pizza at the party"
+def pizza_party
+  "cheese"
 end
